@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BrokHoly
-- 👀 I’m interested in almost everything
-- 🌱 I’m currently learning life in her entirety °3°
-- 💞️ I’m looking to collaborate on NOTHING '-'. No, this is a joke haha '-'. (idk for what i want to collaborate so i say "nothing" but idk u knw idk yep idk mhm)
+- 👀 Je suis intéressé par tout car je ne connais RINE
+- 🌱 J'suis simplement entrain d'apprendre la vie dans son entieretée. Mais sinon en ce moment j'vois pour faire des trucs avec Vue.js
 - 📫 How to reach me ... What a question.... i'm a ghost.. maybe a ritual is adequate :Kappa:
 
 <!---
