@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BrokHoly
 - 👀 Je suis intéressé par tout car je ne connais RINE
 - 🌱 J'suis simplement entrain d'apprendre la vie dans son entieretée. Mais sinon en ce moment j'vois pour faire des trucs avec Vue.js
-- 📫 How to reach me ... What a question.... i'm a ghost.. maybe a ritual is adequate :Kappa:
 
 <!---
 BrokHoly/BrokHoly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
